@@ -1021,7 +1021,7 @@ a.item_add p.number{
 	font-size: 1.1em;
   color: #FFF;
   text-align: center;
-  background: #EF5F21;
+  background: brown;
   padding: 0.5em 1em;
 }
 a.item_add p.number:hover{
@@ -1071,7 +1071,7 @@ p.tun{
 	color:#fff;
 	font-size:1.1em;
 	font-weight:600;
-	background:#EF5F21;
+	background:brown;
 	padding: 0.5em 1.5em;
 	text-transform: uppercase;
 }
