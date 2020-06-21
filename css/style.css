@@ -5,7 +5,7 @@ License: Creative Commons Attribution 3.0 Unported
 License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
 body{
-	background: #adb5bd;
+	background: #d5a286;
 	font-family: 'Roboto', sans-serif;
 }
  a{
@@ -184,7 +184,7 @@ a.item_add {
 /*--banner--*/
 
 .banner{
-	background: url(../images/1.jpg) no-repeat ;
+	background: url(../images/chocolate.jpg) no-repeat ;
 	background-size: cover;
 	width:100%;
 	min-height: 560px;
@@ -270,7 +270,8 @@ height: 35px;
  } 
 .banner-text{
  padding:10em 0 1em;
- color: #40739e;
+ color: Gainsboro;
+ font-weight: 800;
    width: 50%;
 }
 .banner-text h3 {
@@ -1531,6 +1532,7 @@ a.create {
 }
 .single-bottom  input[type="submit"]{
 	width: 10%;
+	font-size: 1.3em;
 	background: #0b3954;
 	padding: 0.4em 0.8em;
 	text-align: center;
