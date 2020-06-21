@@ -1104,7 +1104,7 @@ p.tun{
     margin: 1em 0;
 }
 .single-para h5 {
-  color: #EF5F21;
+  color: brown;
   font-size: 2em;
   border-bottom: 1px solid #C4C3C3;
   padding: 0.3em 0;
@@ -1152,7 +1152,7 @@ ul.tag-men li span.women1{
 a.add-cart {
   text-decoration: none;
   color: #fff;
-  background: #EF5F21;
+  background: brown;
   padding: 0.4em 0.8em;
   font-size:0.9em;
   text-transform: uppercase;
