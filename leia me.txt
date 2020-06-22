@@ -1,0 +1,4 @@
+/*
+Oi, tudo bom? estou deixando esse arquivo de texto aqui para dizer ao senhor que este projeto será usado futuramente como meu projeto pessoal.
+o Feedback do senhor é de extrema importancia para melhorar está aplicação. 
+*/
